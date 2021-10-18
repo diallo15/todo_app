@@ -1,1 +1,1 @@
-# todo_app
+# todo_app is my first app using svelte framework
